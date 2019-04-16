@@ -1,0 +1,29 @@
+.content {
+    max-width: 1000px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+/* input {
+    font-size: 18px;
+  }
+
+  :host input.mat-input-element {
+    color: red;
+    font-size: 18px;
+ } */
+.example-card {
+    max-width: 600px;
+    margin: 20px;
+    margin-top: 20px;
+}
+
+.btn {
+    margin: 0 4px;
+}
+
+.errors {
+    color: red;
+    font-size: 0.8em;
+    height: 30px;
+}
